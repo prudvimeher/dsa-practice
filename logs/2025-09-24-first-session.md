@@ -2,7 +2,7 @@
 
 **Date:** 2025-09-24  
 **Topic/Chapter:** Strings (Valid Palindrome)  
-**Problem Name + Link:** [LeetCode 125](https://leetcode.com/problems valid-palindrome/)  
+**Problem Name + Link:** [LeetCode 125](https://leetcode.com/problems/valid-palindrome/description/?envType=problem-list-v2&envId=string)  
 **Difficulty:** Easy  
 **Pomodoros Used:** 1  
 
