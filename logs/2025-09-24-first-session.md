@@ -19,4 +19,4 @@ Filter alphanumeric, lowercased string and check equality with reverse.
 - How to use two pointers efficiently.  
 - Avoid extra string joins by checking char by char.  
 
-**Code Link:** [commit hash or relative path]
+**Code Link:** [valid_palindrome](leetcode\strings\lc125_valid_palindrome.py)
