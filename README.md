@@ -18,4 +18,4 @@ Read the textbook examples, implement them, solve matching LeetCode problems, do
 3. Commit code + update study log
 ## Study Logs
 - [2025-09-24: Valid Palindrome](logs/2025-09-24-first-session.md)
-- [2025-10-16: One Plus] ()
+- [2025-10-16: One Plus] (logs/2025-10-16-one-plus.md)
